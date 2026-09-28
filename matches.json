@@ -20,7 +20,7 @@
     "accommodatie": "Sportpark Zonnegloren",
     "adresplaats": "3764DG SOEST",
     "first_seen": "2026-09-21T19:02:11.140578+02:00",
-    "last_seen": "2026-09-27T21:59:15.839793+02:00",
+    "last_seen": "2026-09-28T12:05:19.187876+02:00",
     "plaats": "SOEST",
     "scheidsrechter": "RJ (Robert Jan) Boers",
     "status": "Te spelen",
@@ -32,5 +32,22 @@
     "verzameltijd": "",
     "wedstrijddatum": "2026-10-03T10:15:00+0200",
     "wedstrijdnummer": 22945
+  },
+  "21114380": {
+    "accommodatie": "Sportpark Bosstraat-Oost",
+    "adresplaats": "3766AE SOEST",
+    "first_seen": "2026-09-28T12:05:19.187876+02:00",
+    "last_seen": "2026-09-28T12:05:19.187876+02:00",
+    "plaats": "SOEST",
+    "scheidsrechter": "",
+    "status": "Te spelen",
+    "straat": "Bosstraat 137",
+    "thuisteam": "ST SO Soest/VVZ'49 O14-2",
+    "uitteam": "?",
+    "veld": "veld 5 SO Soest",
+    "vertrektijd": "",
+    "verzameltijd": "",
+    "wedstrijddatum": "2026-10-10T11:15:00+0200",
+    "wedstrijdnummer": 2
   }
 }
